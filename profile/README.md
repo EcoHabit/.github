@@ -20,10 +20,10 @@ EcoHabit is a groundbreaking mobile application developed by a skilled GitHub te
 ## Technology Stack
 
 - **Mobile Development:** Flutter
-- **Backend:** Node.js and Python (FastAPI)
-- **Database:** MongoDB and PostgreSQL
-- **AR:** ARCore or ARKit
-- **Plant Recognition:** Custom ML model using TensorFlow or PyTorch
+- **Backend:** Node.js, Typescript
+- **Database:** PostgreSQL
+- **AR:** ARCore
+- **Plant Recognition:** Custom ML model using TensorFlow
 
 ## Usage
 
@@ -49,11 +49,11 @@ These factors underline EcoHabit's potential for success in contributing to the 
 
 Our GitHub team is a collaboration of skilled developers specializing in:
 
-- Mobile Application Development (Flutter or React Native)
-- Backend Development (Node.js or Python - Django or Flask)
-- Database Management (MongoDB or PostgreSQL)
-- Augmented Reality (ARCore or ARKit)
-- Machine Learning (TensorFlow or PyTorch)
+- Mobile Application Development
+- Backend Development
+- Database Management
+- Augmented Reality
+- Machine Learning
 
 We are committed to making EcoHabit a significant contributor to sustainable living and urban farming.
 
